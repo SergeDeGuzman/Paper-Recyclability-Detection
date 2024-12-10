@@ -4,11 +4,11 @@ This project focuses on detecting the recyclability of paper using the Yolov8 ob
 
 # Features
 
-•	Real-time Detection: Utilizes the OpenCV library to incorporate the usage of webcam.
+•	Real-time Detection: Uses the OpenCV library to integrate webcam functionality for real-time detection.
 
-•	Custom Dataset: Trained on a curated dataset of approximately 18,000 images (9,000 for each class), including a variety of paper types with recyclable and non-recyclable attributes.
+•	Custom Dataset: Trained on a dataset of 20,883 images, including augmented and null images.
 
-•	Achieved strong metrics such as mAP (Mean Average Precision) during evaluation.
+•	Strong Performance: Achieved excellent evaluation metrics, such as mAP (Mean Average Precision).
 
 # Dataset
 
@@ -16,15 +16,15 @@ The dataset used to train the model was created collaboratively by me and my tea
 
 # Performance Metrics
 
-Below are the key performance metrics for the model on the validation dataset. Detailed images of the confusion matrix, mAP curves, and other evaluation results are provided in the performance_metrics folder.
+Below are the key performance metrics for the model on the validation dataset. Detailed images of the confusion matrix, mAP curves, and other evaluation results are provided in the runs/detect/train folder.
 
-•	mAP@0.5: Add your value here
+•	mAP@0.5: 95.6%
 
-•	mAP@0.5:0.95: Add your value here
+•	mAP@0.5:0.95: 92.6%
 
-•	Precision: Add your value here
+•	Precision: 91.4%
 
-•	Recall: Add your value here
+•	Recall: 92.1%
 
 
 
