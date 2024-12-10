@@ -15,13 +15,20 @@ This project focuses on detecting the recyclability of paper using the Yolov8 ob
 The dataset used to train the model was created collaboratively by me and my team member. It was available publicly for testing, and for more information, visit [Paper Recyclability Detection](https://universe.roboflow.com/serge-de-guzman-and-christian-gomez/paper-recyclability-detection).
 
 # Training environment
-Python 3.11.9
-Ultralytics 8.3.19 which were downgraded to 8.0.196 as a requirement for Roboflow deployment
-Roboflow 
-OpenCV
-Torch 2.5.0 and Tensorflow (For usage of CUDA)
-Cuda 11.8
-GPU: NVIDIA GeForce GTX 1650
+
+• Python 3.11.9
+
+• Ultralytics 8.3.19 which were downgraded to 8.0.196 as a requirement for Roboflow deployment
+
+• Roboflow 
+
+• OpenCV
+
+• Torch 2.5.0 and Tensorflow (For usage of CUDA)
+
+• Cuda 11.8
+
+• GPU: NVIDIA GeForce GTX 1650
 
 # Performance Metrics
 
