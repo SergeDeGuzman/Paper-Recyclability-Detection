@@ -34,9 +34,9 @@ The dataset used to train the model was created collaboratively by me and my tea
 
 Below are the key performance metrics for the model on the validation dataset. Detailed images of the confusion matrix, mAP curves, and other evaluation results are provided in the runs/detect/train folder.
 
-•	mAP@0.5: 95.6%
+•	mAP@50: 95.6%
 
-•	mAP@0.5:0.95: 92.6%
+•	mAP@50-95: 92.6%
 
 •	Precision: 91.4%
 
