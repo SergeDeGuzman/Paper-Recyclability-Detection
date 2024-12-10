@@ -1,5 +1,4 @@
-# Paper-Recyclability-Detection
-Paper Recyclability Detection using YOLOv8
+# Paper-Recyclability-Detection using YOLOv8
 
 
 
