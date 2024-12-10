@@ -16,17 +16,17 @@ The dataset used to train the model was created collaboratively by me and my tea
 
 # Training environment
 
-• Python 3.11.9
+• Python: 3.11.9
 
-• Ultralytics 8.3.19 which were downgraded to 8.0.196 as a requirement for Roboflow deployment
+• Ultralytics: Version 8.3.19, downgraded to 8.0.196 for Roboflow deployment compatibility
 
-• Roboflow 
+• Roboflow: Used for dataset management and deployment
 
-• OpenCV
+• OpenCV: For real-time detection with webcam integration
 
-• Torch 2.5.0 and Tensorflow (For usage of CUDA)
+• Deep Learning Frameworks: PyTorch 2.5.0 and TensorFlow (for CUDA support)
 
-• Cuda 11.8
+• CUDA: Version 11.8
 
 • GPU: NVIDIA GeForce GTX 1650
 
@@ -43,12 +43,13 @@ Below are the key performance metrics for the model on the validation dataset. D
 •	Recall: 92.1%
 
 
-
-
-
-
-
-
-
 https://github.com/user-attachments/assets/f67e4adc-b40a-48f5-8ac7-0484dd908773
+
+
+# Requests
+
+The trained model file is not included in this repository to ensure proper usage and prevent misuse. If you would like to access the trained model, please send an email stating your purpose and intended use. This allows me to provide the model to individuals with suitable and legitimate intentions.
+
+Can send an email at [sergetrever22@gmail.com](mailto:sergetrever22@gmail.com)
+
 
