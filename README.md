@@ -50,6 +50,6 @@ https://github.com/user-attachments/assets/f67e4adc-b40a-48f5-8ac7-0484dd908773
 
 The trained model file is not included in this repository to ensure proper usage and prevent misuse. If you would like to access the trained model, please send an email stating your purpose and intended use. This allows me to provide the model to individuals with suitable and legitimate intentions.
 
-Can send an email at [sergetrever22@gmail.com](mailto:sergetrever22@gmail.com)
+Can send an email at [sergetrever22@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sergetrever22@gmail.com)
 
 
